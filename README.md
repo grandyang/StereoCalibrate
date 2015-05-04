@@ -2,25 +2,25 @@
 Calibration of stereo pair of the images
 
 
-Modification based on Martin Peris's work
+- Modification based on Martin Peris's work
 
 http://blog.martinperis.com/2011/01/opencv-stereo-camera-calibration.html
 
 
 
-Usage: 
+- Usage: 
 
 StereoCalibrate filename nx ny squareSize
 
 
 
-Example:
+- Example:
 
 StereoCalibrate list.txt 9 6 2.5
 
 
 
-Paremeters:
+- Paremeters:
 
 filename   - A list that contain all the pair images, the total number of images should be even.
 
