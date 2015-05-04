@@ -27,7 +27,7 @@ Calibration of stereo pair of the images
 
 - Note:
 
-- nx, ny should be set correctly according to the checkerboard, if not, no correct results will get.
-- All the corners in the checkerboard in each image should be detected.
-- If the final average error is below 1.0, it indicates a good calibration. If not, please adjust the positions and orientations of the checkerboard. (For how to get a good calibration, please check Martin Peris's blog)
-- (http://blog.martinperis.com/2011/01/opencv-stereo-camera-calibration.html)
+  nx, ny should be set correctly according to the checkerboard, if not, no correct results will get.
+  All the corners in the checkerboard in each image should be detected.
+  If the final average error is below 1.0, it indicates a good calibration. If not, please adjust the positions and orientations of the checkerboard. (For how to get a good calibration, please check Martin Peris's blog)
+  (http://blog.martinperis.com/2011/01/opencv-stereo-camera-calibration.html)
