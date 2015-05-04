@@ -2,6 +2,7 @@
 Calibration of stereo pair of the images
 
 Modification based on Martin Peris's work
+
 http://blog.martinperis.com/2011/01/opencv-stereo-camera-calibration.html
 
 Usage: 
