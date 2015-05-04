@@ -8,18 +8,15 @@ http://blog.martinperis.com/2011/01/opencv-stereo-camera-calibration.html
 
 
 
-
 Usage: 
 
 StereoCalibrate filename nx ny squareSize
 
 
 
-
 Example:
 
 StereoCalibrate list.txt 9 6 2.5
-
 
 
 
@@ -32,7 +29,6 @@ nx         - Number of horizontal squares
 ny         - Number of vertical squares
 
 squareSize - Size of square
-
 
 
 Note:
